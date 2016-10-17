@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-dockerfile",
+  "version": "1.0.0",
+  "description": "nodejs-dockerfile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/bitten/nodejs-dockerfile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/bitten/nodejs-dockerfile/issues"
+  },
+  "homepage": "https://gitlab.com/bitten/nodejs-dockerfile",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^7.0.0",
+    "babel-plugin-external-helpers": "^6.8.0",
+    "babel-preset-es2015": "^6.16.0",
+    "enzyme": "^2.5.0",
+    "eslint-plugin-flowtype": "^2.20.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1",
+    "mocha": "^3.1.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
